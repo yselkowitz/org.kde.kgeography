@@ -34,7 +34,7 @@
     <description xml:lang="vi"><p>Bạn biết được bao nhiêu về địa lý thế giới và các vấn đề chính trị? Hãy tìm hiểu địa lý thế giới thông qua một trò chơi hấp dẫn. Đầu tiên, hãy xem bản đồ và tìm hiểu về tên nước, thủ đô và quốc kỳ. Sau đó, sẽ đến lúc kiểm tra kiến thức của bạn! Đoán thủ đô và quốc kỳ hay cố gắng vẽ biên giới quốc gia lên một bản đồ trống. Trước khi nhận ra, bạn sẽ biết về tất cả các nơi trên thế giới và sẽ có được rất nhiều niềm vui trong khi học hỏi!</p></description>
     <description xml:lang="zh_CN"><p>你对世界地理和政治了解多少？通过一个精彩的游戏学习世界地理吧！首先，查看地图，了解地名、国家、各国旗帜。然后，开始测试你的地理知识吧！猜猜首都和旗帜，或者在空地图上标示出国界。通过此游戏学习地理知识，乐趣多多！</p></description>
     <description xml:lang="zh_TW"><p>你對世界地理和政治事務了解多少？透過有趣的遊戲學習世界地理知識。首先，查看地圖並了解國家名稱、首都名稱和國旗。然後，就到了測試你的知識的時候了！猜猜首都名稱和國旗，或在一張空白的地圖上放置國家邊界。在你回過神來的那一瞬間，你已經了學到了世界上每一個角落的名稱與知識，並且在學習過程中獲得許多樂趣！</p></description>
-    <project_license>GPL-3.0+</project_license>
+    <project_license>GPL-2.0</project_license>
     <metadata_license>CC0-1.0</metadata_license>
     <url type="homepage">http://edu.kde.org/</url>
     <screenshots>
@@ -48,8 +48,8 @@
         <image type="source">https://d3lapyynmdp1i9.cloudfront.net/screenshots/org.kde.Kgeography/C/org.kde.kgeography-screenshot3.jpg</image>
       </screenshot>
     </screenshots>
-    <releases>
+  <releases>
 		<release version="18.08.0" date="2018-08-16"/>
-  	</releases>
-	<content_rating type="oars-1.1" />
+  </releases>
+  <content_rating type="oars-1.1" />
   </component>
