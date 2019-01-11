@@ -21,14 +21,7 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/applications/18.12.0/src/kgeography-18.12.0.tar.xz",
                     "sha256": "7bb25101ee98a6d552f46d760cbfe60f0a7da8d6a31dfaa5a35cf7dac71842b9"
-                },
-                {
-                    "type": "file",
-                    "path": "org.kde.kgeography.appdata.xml"
                 }
-            ],
-            "post-install": [
-                "install -D -m 644 org.kde.kgeography.appdata.xml /app/share/appdata/org.kde.kgeography.appdata.xml"
             ]
         }
     ]
