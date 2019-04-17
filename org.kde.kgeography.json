@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kgeography",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "kgeography",
     "rename-icon": "kgeography",
@@ -19,8 +19,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kgeography-18.12.0.tar.xz",
-                    "sha256": "7bb25101ee98a6d552f46d760cbfe60f0a7da8d6a31dfaa5a35cf7dac71842b9"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/kgeography-19.04.0.tar.xz",
+                    "sha256": "ee126fc91ba164e0c095e7cef231a1389a4e1423256773c4e7d4b7306077eb41"
                 }
             ]
         }
