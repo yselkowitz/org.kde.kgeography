@@ -19,8 +19,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/kgeography-19.12.2.tar.xz",
-                    "sha256": "904b3d950ea021d58b64d211879085bccb703ef39eb17dc66ab0199845c823f7"
+                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/kgeography-19.12.3.tar.xz",
+                    "sha256": "3947ca1f50910d77f85c630b49128a085fed4230c7919e09281bc1765529a533"
                 }
             ]
         }
