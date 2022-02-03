@@ -18,8 +18,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/kgeography-21.12.1.tar.xz",
-                    "sha256": "bde2bce922361589d27c44b506e3f1d118d2e608f9ac0b4d9917a9f747233dbb"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/kgeography-21.12.2.tar.xz",
+                    "sha256": "12b4f0cf0136405f4e97da3ecc4c993fcdadb5eb8682228f3e24ff7ed1fd0526"
                 }
             ]
         }
