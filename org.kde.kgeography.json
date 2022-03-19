@@ -19,7 +19,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kgeography-21.12.3.tar.xz",
-                    "sha256": "8062ccc3e1d864fb923e6587e902f5b16561bed49328722c71154eec9cf33de8"
+                    "sha256": "8062ccc3e1d864fb923e6587e902f5b16561bed49328722c71154eec9cf33de8",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kgeography-$version.tar.xz"
+                    }
                 }
             ]
         }
