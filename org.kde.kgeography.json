@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/kgeography-22.08.0.tar.xz",
-                    "sha256": "4ab99f43493e5b42b65a8e8ebf5c0b8a5ab1eaea8d653c2a9e65ad59c247373e",
+                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/kgeography-22.08.1.tar.xz",
+                    "sha256": "4dc100a5791b013f0010c7abac96df4af80f00ac7f67cbec64d7d716635e44f9",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
